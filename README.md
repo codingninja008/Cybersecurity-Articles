@@ -9,7 +9,8 @@ All the articles are written to highlight and explain the topics. The files cont
 
 List of Articles
 
-| Name |  Link |
-| :---         |          ---: |
-| EternalBlue    | [Here](https://github.com/codingninja008/Cybersecurity-Articles/blob/master/Cybersecurity%20Articles/Eternal%20Blue.pdf)      |
+| Name | Description |  Link |
+| :---         |:--- |         ---: |
+| EternalBlue    | Article about EternalBlue (MS17-010) exploit. |[Here](https://github.com/codingninja008/Cybersecurity-Articles/blob/master/Cybersecurity%20Articles/Eternal%20Blue.pdf)      |
+| OWASP Top 10 Application Security Risks (2017)    | Article about what is OWASP and the Top 10 application security risks based on OWASP 2017 report.  |[Here](https://github.com/codingninja008/Cybersecurity-Articles/blob/master/Cybersecurity%20Articles/OWASP%20TOP%2010%20APPLICATION%20SECURITY%20RISKS.pdf)      |
 
